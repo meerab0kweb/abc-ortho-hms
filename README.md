@@ -1,4 +1,4 @@
-# abc-ortho-hms
+# ABC Orthodontics Hospital Management System
 
 ## Microsoft SQL Server Database Project
 
